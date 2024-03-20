@@ -1,0 +1,7 @@
+node_modules
+echo "##active_line2##"
+dist
+echo "##active_line3##"
+*.log
+echo "##active_line4##"
+.DS_Store
